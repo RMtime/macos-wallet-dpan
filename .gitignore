@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+pass.json
+Cards/
+Passes/
+*.log
+.DS_Store
+.env
+.venv/
